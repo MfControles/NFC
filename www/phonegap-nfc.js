@@ -407,7 +407,7 @@ var ndef = {
     }
 
 };
-
+var listenerValidator=null;
 // nfc provides javascript wrappers to the native phonegap implementation
 var nfc = {
     
